@@ -1,4 +1,3 @@
-```markdown
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vishal Jha
 
 <p align="center">
@@ -15,13 +14,12 @@
 
 ## 🚀 About Me
 
-```yaml
 Name: Vishal Jha
 Location: Indore, India 🇮🇳
 Education: B.Tech Information Technology
 Role: Full Stack Developer
 Focus: Backend Engineering + AI Applications
-```
+
 
 💻 Building scalable applications, backend systems & AI-powered platforms  
 ⚡ 1500+ contributions · 23 stars · 100+ repos · 10+ production projects  
