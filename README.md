@@ -1,18 +1,18 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Vishal Jha
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vishal Jha
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Full%20Stack%20Developer&fontAlign=50&fontAlignY=40&color=0:00c6ff,100:0072ff&fontColor=ffffff&fontSize=42&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Full%20Stack%20Developer&fontAlign=50&fontAlignY=40&color=0:00c6ff,100:0072ff&fontColor=ffffff&fontSize=38&animation=fadeIn" />
 </p>
 
 <p align="center">
   <a href="https://github.com/vishaljha04">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;MERN+%2B+Next.js+Developer;AI+Powered+Applications;Microservices+%26+Scalable+Systems;React+Native+Learner;Open+Source+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Engineer;MERN+%2B+Next.js+Developer;AI+Powered+Applications;Microservices+%26+Scalable+Systems;Open+Source+Enthusiast" />
   </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```yaml
 Name: Vishal Jha
@@ -22,198 +22,79 @@ Role: Full Stack Developer
 Focus: Backend Engineering + AI Applications
 ```
 
-💻 Passionate about building scalable applications, backend systems, AI-powered tools, and production-level web platforms.
-
-⚡ I enjoy solving real-world engineering problems involving:
-
-* REST APIs
-* Distributed Systems
-* Authentication Systems
-* AI Integrations
-* Background Workers
-* Real-Time Applications
-* System Design
+💻 Building scalable applications, backend systems & AI-powered platforms  
+⚡ 1500+ contributions · 23 stars · 100+ repos · 10+ production projects  
 
 ---
 
-# 🧠 Current Focus
+## 🛠 Tech Stack
 
-* ⚙️ Scalable Backend Architecture
-* 🤖 AI Automation Platforms
-* 🚀 Full Stack SaaS Products
-* 📦 Microservices & Worker Queues
-* ☁️ Deployment & DevOps Basics
-* 📱 React Native Development
-
----
-
-# 🛠 Tech Stack
-
-## 👨‍💻 Languages
-
+### 👨‍💻 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,sql" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nginx" />
+</p>
+
+### 🗄 Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,prisma" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,aws" />
 </p>
 
 ---
 
-## 🎨 Frontend Development
+## 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
-</p>
+### 🧠 Code Arena — AI Browser IDE
+> AI-powered IDE for generating & running apps in browser
 
-* React.js
-* Next.js
-* Responsive UI Development
-* Component Architecture
-* State Management
+**Tech:** `Next.js` `React` `MongoDB` `Prisma` `Ollama`
 
 ---
 
-## ⚙️ Backend Development
+### 🤖 LinkedIn Growth AI Automation
+> AI content generation & scheduling platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Backend Skills
-
-* REST APIs
-* Authentication & Authorization
-* Rate Limiting
-* API Optimization
-* Background Workers
-* BullMQ
-* Redis Queues
-* Scalable Architecture
-* Async Processing
-* Webhooks
+**Tech:** `Next.js 15` `PostgreSQL` `Supabase` `DeepSeek API`
 
 ---
 
-## 🗄 Databases & ORM
+### 🌊 Smart Irrigation Monitoring System
+> Real-time IoT dashboard with Redis optimization
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase" />
-</p>
-
-* Prisma ORM
-* Database Design
-* Query Optimization
-* Caching Strategies
+**Tech:** `React` `Node.js` `MongoDB` `Redis`
 
 ---
 
-## ☁️ DevOps & Tools
+## 💼 Experience
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode" />
-</p>
+### 🚀 Software Engineer Intern — Krapto Technologies
+- Built scalable backend services & worker queues (BullMQ + Redis)
+- Implemented authentication, caching & microservices workflows
 
-* Docker
-* Linux Environment
-* CI/CD Basics
-* Deployment Workflows
-* Git Version Control
+### 🌱 Full Stack Developer Intern — Ouranos Robotics
+- Developed IoT monitoring features & reusable React components
+- Integrated scalable backend APIs & real-time data systems
 
 ---
 
-# 🚀 Featured Projects
-
-## 🧠 Code Arena — AI Powered Browser IDE
-
-> Full-stack AI browser IDE capable of generating and running applications directly in the browser.
-
-### 🔥 Features
-
-* AI Code Generation
-* WebContainers Runtime
-* Full Stack Execution
-* Persistent Project Storage
-* Real-time Development Environment
-
-### ⚡ Tech Used
-
-`Next.js` `React.js` `MongoDB` `Prisma` `Ollama`
-
----
-
-## 🤖 LinkedIn Growth AI Automation Platform
-
-> AI automation platform for LinkedIn content generation and scheduling.
-
-### 🔥 Features
-
-* AI Content Generation
-* Scheduled Automation
-* OAuth Authentication
-* Approval Workflow
-* Email Automation
-
-### ⚡ Tech Used
-
-`Next.js 15` `PostgreSQL` `Supabase` `DeepSeek API`
-
----
-
-## 🌊 Smart Irrigation Monitoring System
-
-> Real-time IoT dashboard for irrigation systems.
-
-### 🔥 Features
-
-* Real-Time Sensor Monitoring
-* Device Management
-* Backend API Integration
-* Redis-Based Data Optimization
-
-### ⚡ Tech Used
-
-`React.js` `Node.js` `MongoDB` `Redis`
-
----
-
-# 💼 Experience
-
-## 🚀 Software Engineer Intern — Krapto Technologies
-
-* Built scalable backend services
-* Worked on worker queues using BullMQ & Redis
-* Implemented authentication & caching systems
-* Contributed to microservices workflows
-* Worked in Linux-based production environments
-
----
-
-## 🌱 Full Stack Developer Intern — Ouranos Robotics
-
-* Developed IoT monitoring features
-* Built reusable React components
-* Optimized real-time data systems
-* Integrated scalable backend APIs
-
----
-
-# 🧩 Core CS Knowledge
-
-```txt
-✔ Data Structures & Algorithms
-✔ Object Oriented Programming
-✔ Operating Systems
-✔ DBMS
-✔ System Design Basics
-✔ Networking Fundamentals
-✔ Asynchronous Processing
-```
-
----
-
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vishaljha04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaljha04&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -223,31 +104,35 @@ Focus: Backend Engineering + AI Applications
 
 ---
 
-# 🏆 Achievements
+## 📊 Contribution Graph
 
-* 📜 Received Letter of Recommendation (LOR)
-* 💻 Participated in IIT Bhubaneswar Frontend Hackathon
-* 🚀 Built Production-Ready Full Stack Applications
-* 🔥 Worked on AI & Scalable Backend Systems
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaljha04&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=58a6ff&line=1f6feb&point=ffffff" width="95%" />
+</p>
 
 ---
 
-# 📫 Connect With Me
+## 🏆 Achievements
+
+- 📜 Letter of Recommendation (LOR)
+- 💻 IIT Bhubaneswar Frontend Hackathon
+- 🚀 10+ Production-Ready Applications
+- 🔥 1500+ GitHub Contributions
+
+---
+
+## 📫 Connect
 
 <p align="center">
-
-<a href="mailto:vjha93011@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/vishal-jha-897a7b256">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/vishaljha04">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="mailto:vjha93011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vishal-jha-897a7b256">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vishaljha04">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
