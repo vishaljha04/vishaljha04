@@ -1,78 +1,258 @@
-<!-- Header Animation -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:43e97b,100:38f9d7&height=180&section=header&text=Hi%20I'm%20Vishal%20Jha!&fontSize=35&fontColor=ffffff&animation=twinkling)
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Vishal Jha
 
-<!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/vishal93990">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=👨‍💻+MERN+Stack+Developer;🚀+Building+AI+Web+Tools;💡+Lifelong+Learner+%26+Coder" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Full%20Stack%20Developer&fontAlign=50&fontAlignY=40&color=0:00c6ff,100:0072ff&fontColor=ffffff&fontSize=42&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/vishaljha04">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Engineer;MERN+%2B+Next.js+Developer;AI+Powered+Applications;Microservices+%26+Scalable+Systems;React+Native+Learner;Open+Source+Enthusiast" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 🚀 About Me
 
-I'm **Vishal Jha**, a passionate full-stack developer from **Jabalpur**, India 🇮🇳.  
-I specialize in building smart, scalable web applications using the **MERN stack**, Currently working on tools that bring automation and intelligence to the browser.
+```yaml
+Name: Vishal Jha
+Location: Jabalpur, India 🇮🇳
+Education: B.Tech Information Technology
+Role: Full Stack Developer
+Focus: Backend Engineering + AI Applications
+```
 
----
+💻 Passionate about building scalable applications, backend systems, AI-powered tools, and production-level web platforms.
 
-## 🛠 Tech Stack
+⚡ I enjoy solving real-world engineering problems involving:
 
-### ⚛️ MERN Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+* REST APIs
+* Distributed Systems
+* Authentication Systems
+* AI Integrations
+* Background Workers
+* Real-Time Applications
+* System Design
 
 ---
 
-## 🚀 Projects
+# 🧠 Current Focus
 
-### 🔧 [AI_webbuilder](https://github.com/vishal93990/AI_webbuilder)
-> 🧠 A smart website builder powered by **Gemini AI** that lets you generate front-end components using natural language.
-
-- Built with React, Vite, Gemini API
-- Component generator & dynamic code rendering
-- Focused on boosting developer productivity with AI
+* ⚙️ Scalable Backend Architecture
+* 🤖 AI Automation Platforms
+* 🚀 Full Stack SaaS Products
+* 📦 Microservices & Worker Queues
+* ☁️ Deployment & DevOps Basics
+* 📱 React Native Development
 
 ---
 
+# 🛠 Tech Stack
 
-## 📈 GitHub Stats
+## 👨‍💻 Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal93990&show_icons=true&theme=radical&hide_border=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishal93990&theme=radical&hide_border=false" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal93990&layout=compact&theme=radical&hide_border=false" width="50%" />
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,sql" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+</p>
+
+* React.js
+* Next.js
+* Responsive UI Development
+* Component Architecture
+* State Management
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Backend Skills
+
+* REST APIs
+* Authentication & Authorization
+* Rate Limiting
+* API Optimization
+* Background Workers
+* BullMQ
+* Redis Queues
+* Scalable Architecture
+* Async Processing
+* Webhooks
+
+---
+
+## 🗄 Databases & ORM
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase" />
+</p>
+
+* Prisma ORM
+* Database Design
+* Query Optimization
+* Caching Strategies
+
+---
+
+## ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode" />
+</p>
+
+* Docker
+* Linux Environment
+* CI/CD Basics
+* Deployment Workflows
+* Git Version Control
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Code Arena — AI Powered Browser IDE
+
+> Full-stack AI browser IDE capable of generating and running applications directly in the browser.
+
+### 🔥 Features
+
+* AI Code Generation
+* WebContainers Runtime
+* Full Stack Execution
+* Persistent Project Storage
+* Real-time Development Environment
+
+### ⚡ Tech Used
+
+`Next.js` `React.js` `MongoDB` `Prisma` `Ollama`
+
+---
+
+## 🤖 LinkedIn Growth AI Automation Platform
+
+> AI automation platform for LinkedIn content generation and scheduling.
+
+### 🔥 Features
+
+* AI Content Generation
+* Scheduled Automation
+* OAuth Authentication
+* Approval Workflow
+* Email Automation
+
+### ⚡ Tech Used
+
+`Next.js 15` `PostgreSQL` `Supabase` `DeepSeek API`
+
+---
+
+## 🌊 Smart Irrigation Monitoring System
+
+> Real-time IoT dashboard for irrigation systems.
+
+### 🔥 Features
+
+* Real-Time Sensor Monitoring
+* Device Management
+* Backend API Integration
+* Redis-Based Data Optimization
+
+### ⚡ Tech Used
+
+`React.js` `Node.js` `MongoDB` `Redis`
+
+---
+
+# 💼 Experience
+
+## 🚀 Software Engineer Intern — Krapto Technologies
+
+* Built scalable backend services
+* Worked on worker queues using BullMQ & Redis
+* Implemented authentication & caching systems
+* Contributed to microservices workflows
+* Worked in Linux-based production environments
+
+---
+
+## 🌱 Full Stack Developer Intern — Ouranos Robotics
+
+* Developed IoT monitoring features
+* Built reusable React components
+* Optimized real-time data systems
+* Integrated scalable backend APIs
+
+---
+
+# 🧩 Core CS Knowledge
+
+```txt
+✔ Data Structures & Algorithms
+✔ Object Oriented Programming
+✔ Operating Systems
+✔ DBMS
+✔ System Design Basics
+✔ Networking Fundamentals
+✔ Asynchronous Processing
+```
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <a href="mailto:vjha93011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vishal-jha-897a7b256"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/__vishal__jha___/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaljha04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaljha04&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljha04&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
 
-<!-- Footer Animation -->
-![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=120)
+# 🏆 Achievements
+
+* 🥇 Intern of the Month
+* 📜 Received Letter of Recommendation (LOR)
+* 💻 Participated in IIT Bhubaneswar Frontend Hackathon
+* 🚀 Built Production-Ready Full Stack Applications
+* 🔥 Worked on AI & Scalable Backend Systems
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:vjha93011@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/vishal-jha-897a7b256">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/vishaljha04">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00c6ff,100:0072ff" />
+</p>
