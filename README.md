@@ -1,5 +1,3 @@
-Here's your GitHub-style contribution graph:
-
 ```markdown
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vishal Jha
 
@@ -9,7 +7,7 @@ Here's your GitHub-style contribution graph:
 
 <p align="center">
   <a href="https://github.com/vishaljha04">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Engineer;MERN+%2B+Next.js+Developer;AI+Powered+Applications;Microservices+%26+Scalable+Systems;Open+Source+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Engineer;MERN+%2B+Next.js+Developer;AI+Powered+Applications;Microservices+%26+Scalable+Systems;Open+Source+Enthusiast" />
   </a>
 </p>
 
@@ -45,12 +43,12 @@ Focus: Backend Engineering + AI Applications
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaljha04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaljha04&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaljha04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaljha04&theme=tokyonight&hide_border=true&background=0a0a0a" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljha04&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljha04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a" width="40%" />
 </p>
 
 ---
@@ -58,27 +56,27 @@ Focus: Backend Engineering + AI Applications
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python" />
 </p>
 
 ### 🎨 Frontend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
 </p>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nginx" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄 Databases & ORM
-<p>
+### 🗄️ Databases & ORM
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,supabase,prisma" />
 </p>
 
 ### ☁️ DevOps & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode,aws" />
 </p>
 
@@ -119,6 +117,22 @@ Focus: Backend Engineering + AI Applications
 
 ---
 
+## 🧩 Core Competencies
+
+```
+✔ Data Structures & Algorithms
+✔ Object Oriented Programming
+✔ Operating Systems
+✔ DBMS
+✔ System Design Basics
+✔ REST APIs & Microservices
+✔ Authentication & Authorization
+✔ Caching & Queues (Redis, BullMQ)
+✔ Docker & Deployment
+```
+
+---
+
 ## 🏆 Achievements
 
 - 📜 Letter of Recommendation (LOR)
@@ -128,18 +142,32 @@ Focus: Backend Engineering + AI Applications
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:vjha93011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/vishal-jha-897a7b256">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/vishaljha04">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://twitter.com/vishaljha04">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_Building-SaaS_Products-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤖_Exploring-AI_Automation-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📱_Learning-React_Native-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/☁️_DevOps-Docker_&_AWS-orange?style=for-the-badge" />
 </p>
 
 ---
