@@ -16,7 +16,7 @@
 
 ```yaml
 Name: Vishal Jha
-Location: Jabalpur, India 🇮🇳
+Location: Indore, India 🇮🇳
 Education: B.Tech Information Technology
 Role: Full Stack Developer
 Focus: Backend Engineering + AI Applications
