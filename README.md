@@ -225,7 +225,6 @@ Focus: Backend Engineering + AI Applications
 
 # 🏆 Achievements
 
-* 🥇 Intern of the Month
 * 📜 Received Letter of Recommendation (LOR)
 * 💻 Participated in IIT Bhubaneswar Frontend Hackathon
 * 🚀 Built Production-Ready Full Stack Applications
