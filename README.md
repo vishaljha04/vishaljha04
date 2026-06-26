@@ -1,3 +1,6 @@
+Here's your GitHub-style contribution graph:
+
+```markdown
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Vishal Jha
 
 <p align="center">
@@ -24,6 +27,31 @@ Focus: Backend Engineering + AI Applications
 
 💻 Building scalable applications, backend systems & AI-powered platforms  
 ⚡ 1500+ contributions · 23 stars · 100+ repos · 10+ production projects  
+
+---
+
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/vishaljha04" alt="Vishal Jha's GitHub Contribution Chart" />
+</p>
+
+<p align="center">
+  <i>🟩 Each square represents a day with contributions</i>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaljha04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaljha04&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljha04&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
 ---
 
@@ -91,27 +119,6 @@ Focus: Backend Engineering + AI Applications
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishaljha04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishaljha04&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljha04&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishaljha04&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=58a6ff&line=1f6feb&point=ffffff" width="95%" />
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 📜 Letter of Recommendation (LOR)
@@ -140,3 +147,4 @@ Focus: Backend Engineering + AI Applications
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00c6ff,100:0072ff" />
 </p>
+```
